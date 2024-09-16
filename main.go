@@ -18,6 +18,7 @@ func main() {
 	a := app.New()
 	w := a.NewWindow("Notepad")
 	w.CenterOnScreen()
+	w.Resize(fyne.NewSize(800, 500))
 
 	// Running
 	tabs := AddTabs(w)
