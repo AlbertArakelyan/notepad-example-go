@@ -5,5 +5,5 @@
 </div>
 
 <p align="center">
-  A simple Notepad similar desktop application developed on Go, for getting into more this prograaming language.
+  A simple Notepad similar desktop application developed on Go, for getting into more this programming language.
 </p>
